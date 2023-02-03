@@ -178,6 +178,7 @@ void printLabyrinth();
  * - comment: (string) comment to send to the server (max 100 char.)
  */
 void sendComment(const char* comment);
+void expansion(const char* comment);
 
 
 
